@@ -1,7 +1,7 @@
 ---
 title: Next UI Guide
 lang: en-US
-home: true
+home: false
 heroImage: /images/favicon.ico
 actionText: Guide →
 actionLink: /guide
