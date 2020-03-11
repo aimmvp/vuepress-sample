@@ -1,6 +1,6 @@
 module.exports = {
     title: 'Next UI Guide',
-    base: "/vuepress-sample",
+    base: "/vuepress-sample/",
     // head: [],
     themeConfig: {
         sidebar: [
